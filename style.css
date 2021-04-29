@@ -2,11 +2,13 @@ h1 {font-family: times new roman;
       text-align: center:}
 body {font-family: arial;
        background-image: Astronomy.jpg;
+       margin: 50px 50px 50px 50px
        text-align: center;}
 div {border:5px black;
      padding: 10px 10px 10px 10px;
      margin:auto;}
-tabble {margin:auto;}
+tabble {margin-left:auto;
+         margin-right:auto;}
 
 
 
