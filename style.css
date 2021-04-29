@@ -11,8 +11,8 @@ div {border: 5px solid black;
      padding: 10px 10px 10px 10px;
      margin:auto;}
 tabble {background-colour: grey;
-        margin-left:auto;
-         margin-right:auto;}
+        padding: 2px 2px 2px 2px
+        margin: auto;}
 
 
 
