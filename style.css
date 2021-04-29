@@ -1,7 +1,7 @@
 h1 {font-family: georgia;
       text-align: center:}
 body {font-family: arial;
-       background-image: Astronomy.jpg;
+       background-image: src(Astronomy.jpg);
        margin: 50px 50px 50px 50px;
        text-align: center;}
 h3 {font-family: arial;
