@@ -7,7 +7,7 @@ body {font-family: arial;
 h3 {font-family: arial;
      text-align: center;}
 div {border: 5px solid black;
-     font-size: 12;
+     font-size: 120%;
      padding: 10px 10px 10px 10px;
      margin:auto;}
 tabble {background-colour: grey;
