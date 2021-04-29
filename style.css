@@ -4,6 +4,9 @@ body {colour: red;
        font-family: arial;
        background-image: Astronomy.jpg;
        text-align: center;}
+div {border:5px black;
+     padding: 10px 10px 10px 10px;
+     margin:auto;}
 
 
 
