@@ -4,7 +4,7 @@ body {font-family: arial;
        background-image: Astronomy.jpg;
        margin: 50px 50px 50px 50px;
        text-align: center;}
-div {border: 5px black;
+div {border: 5px solid black;
      padding: 10px 10px 10px 10px;
      margin:auto;}
 tabble {margin-left:auto;
