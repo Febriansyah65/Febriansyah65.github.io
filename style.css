@@ -1,14 +1,13 @@
 h1 {font-family: georgia;
       text-align: center:}
 body {font-family: arial;
-       background-colour: grey;
+       background-image: img src:"Astronomy.jpg";
        margin: 50px 50px 50px 50px;
        text-align: center;}
 h3 {font-family: arial;
      text-align: center;}
 div {border: 5px solid black;
      padding: 10px 10px 10px 10px;
-     background-colour: grey;
      margin:auto;}
 tabble {background-colour: grey;
         margin-left:auto;
