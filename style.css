@@ -2,6 +2,7 @@ h1 {font-family: georgia;
       text-align: center;}
 ul {list-style-type: none;
       margin: 0;
+      overflow: hidden;
       padding: 0;}
 li {display: inline;
       float: left;}
