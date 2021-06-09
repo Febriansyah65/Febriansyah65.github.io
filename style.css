@@ -3,7 +3,11 @@ h1 {font-family: georgia;
 ul {list-style-type: none;
       margin: 0;
       padding: 0;}
-li {display: inline;}
+li {display: inline;
+      float: left;}
+a {display: block;
+  padding: 8px;
+  background-color: #dddddd; }
 body {font-family: arial; 
        background-image: url(https://cdn.hipwallpaper.com/i/30/84/PW5Qx4.jpg);
        margin: 50px 50px 50px 50px;
