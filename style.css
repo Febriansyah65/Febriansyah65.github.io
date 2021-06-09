@@ -1,6 +1,9 @@
 h1 {font-family: georgia;
       text-align: center;}
-ul {text-align: center;}
+ul {text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;}
 body {font-family: arial; 
        background-image: url(https://cdn.hipwallpaper.com/i/30/84/PW5Qx4.jpg);
        margin: 50px 50px 50px 50px;
