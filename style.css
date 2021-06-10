@@ -11,6 +11,7 @@ tabble {background-color: grey;
         margin-left: auto;
         margin-right: auto;}
 #text {border: 4px black;
+      font-size: 14;
 padding: 2px 2px 2px 2px;
 background-color: lightblue;}
 
