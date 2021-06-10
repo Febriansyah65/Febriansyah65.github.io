@@ -6,7 +6,7 @@ body {font-family: arial;
        text-align: center;}
 h3 {font-family: arial;
      text-align: center;}
-#text {border: 2px solid black;
+.text {border: 2px solid black;
      font-size: 90%;
      padding: 10px 10px 10px 10px;
      margin:auto;
