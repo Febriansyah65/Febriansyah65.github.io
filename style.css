@@ -6,11 +6,6 @@ body {font-family: arial;
        text-align: center;}
 h3 {font-family: arial;
      text-align: center;}
-.text {border: 2px solid black;
-     font-size: 90%;
-     padding: 10px 10px 10px 10px;
-     margin:auto;
-      background-colour: grey;}
 tabble {background-colour: grey;
         padding: 2px 2px 2px 2px;
         margin-left: auto;
