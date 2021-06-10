@@ -2,36 +2,58 @@
 <html>
  <head> 
 <link rel="stylesheet" href="style.css"/>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
- <title>Laman Pribadi Muhammad Febriansyah</title>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <title>Laman Pribadi Muhammad Febriansyah</title>
+  
  </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-primary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-     </ul>
+<div class="container">
+
+      <!-- Static navbar -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Project name</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li class="dropdown-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
+              <li><a href="../navbar-static-top/">Static top</a></li>
+              <li><a href="../navbar-fixed-top/">Fixed top</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </div>
-  </div>
-</nav>
- <center><h1>Biodata Pemilik</h1></center>
-<center><img src="febri.jpg" alt="Foto Febri" width=200 height=300></img></center>
+<div class="jumbotron text-center">
+  <h1><b>Laman Pemilik</b></h1>
+</div>
+ <center><img src="febri.jpg" alt="Foto Febri" width=200 height=300></img></center>
 <center><table style="100%" cellspacing="0" cellpadding="5" border="2">
   <tr>
     <th>Firstname</th>
