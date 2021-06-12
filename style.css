@@ -1,13 +1,18 @@
 h1 {font-family: georgia;
       text-align: center;}
+.page-header {border-style: round;
+background-color: white;
+margin: 2px 2px 2px 2px;
+padding: 4px 4px 4px 4px;}
 body {font-family: arial; 
        background-image: url(https://media1.thehungryjpeg.com/thumbs2/ori_3469501_c599370100f28f9c6c1131d97b7c482f5ae87b4c_7-nautical-doodle-endless-patterns.jpg);
        margin: 50px 50px 50px 50px;
        text-align: center;}
 h3 {font-family: arial;
      text-align: center;}
-p.container {border-syle: solid;
+#paragraph-2 {border-syle: solid;
     border-width: 4px black;
       font-size: 14px;
 padding: 2px 2px 2px 2px;}
-
+.col-md-6 {background-color: white;
+}
