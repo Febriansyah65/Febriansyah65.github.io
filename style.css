@@ -11,9 +11,10 @@ tabble {background-color: grey;
       font-size: 18px
         margin-left: auto;
         margin-right: auto;}
-#text {border: 4px black;
+#text {border-syle: solid;
+    border-width: 4px black;
       font-size: 14px;
 padding: 2px 2px 2px 2px;
-background-color: lightblue;}
+background-color: white;}
 .jumbotron {background-color: white;}
 
