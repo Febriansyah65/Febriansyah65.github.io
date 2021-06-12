@@ -2,6 +2,7 @@ h1 {font-family: georgia;
       text-align: center;}
 .page-header {border-style: round;
 background-color: white;
+      width: 300px;
 margin: 2px 2px 2px 2px;
 padding: 4px 4px 4px 4px;}
 body {font-family: arial; 
@@ -16,4 +17,5 @@ h3 {font-family: arial;
       font-size: 14px;
 padding: 2px 2px 2px 2px;}
 .col-md-6 {background-color: white;
+      width: 200px;
 }
