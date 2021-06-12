@@ -4,7 +4,8 @@ h1 {font-family: georgia;
 background-color: white;
       width: 300px;
 margin: 2px 2px 2px 2px;
-padding: 4px 4px 4px 4px;}
+padding: 4px 4px 4px 4px;
+font-family: some-time-later;}
 body {font-family: arial; 
        background-image: url(https://cdn.hipwallpaper.com/i/42/35/DZoEJ6.png);
       background-repeat: no-repeat;
@@ -12,10 +13,10 @@ body {font-family: arial;
        text-align: center;}
 h3 {font-family: arial;
      text-align: center;}
-#paragraph-2 {border-syle: solid;
+.paragraph-2 {border-syle: solid;
     border-width: 4px black;
       font-size: 14px;
-padding: 2px 2px 2px 2px;}
-.col-md-6 {background-color: white;
-      width: 200px;
-}
+padding: 2px 2px 2px 2px;
+font-family: beachday;}
+.col-md-6 {font-family: beachday;}
+.col-lg-6 {font-family: beachday;}
